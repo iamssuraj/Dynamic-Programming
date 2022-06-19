@@ -17,6 +17,6 @@ long long int tribonacci(long long int n)
 }
 signed main()
 {
-    cout<<tribonacci(50)<<endl;
+    cout<<tribonacci(50)<<endl; 
     return 0;
 }
